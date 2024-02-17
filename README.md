@@ -1,6 +1,8 @@
 ### 我是不知铭
 
-- 🐅 如果只是向往，远方依旧是远方
+***
+
+###### 如果只是向往，远方依旧是远方
 
 ***
 
@@ -14,15 +16,15 @@
 ***
 
 - 小趴菜 Learn Diary...
-- Spring
-- SpringMvc
-- MyBatis
-- MyBatis Plus
-- Redis
-- RabbitMQ
-- SpringBoot
-- SpringCloud alibaba
+- ⭐ Spring
+- ⭐ SpringMvc
+- ⭐ MyBatis
+- ⭐ MyBatis Plus
+- ⭐ Redis
+- ⭐ RabbitMQ
+- ⭐ SpringBoot
+- ⭐ SpringCloud Alibaba
+- Learning ...
 
 ***
 
-- 
